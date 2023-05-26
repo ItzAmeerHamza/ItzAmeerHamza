@@ -2,9 +2,9 @@
 
 ![coverphoto](https://github.com/ItzAmeerHamza/ItzAmeerHamza/blob/main/coverphoto.png)
 <br />
-I am __Ameer Hamza__ a computer science enthusiast graduated from FAST-National University of Computer and Emerging Sciences. I am from Pakistan
+I am __Ameer Hamza__ a computer science enthusiast, graduated from FAST-National University of Computer and Emerging Sciences. I am from Pakistan
 
-  class Person {
+  `class Person {
     constructor() {
 
       this.name = "Ameer Hamza";
@@ -13,7 +13,7 @@ I am __Ameer Hamza__ a computer science enthusiast graduated from FAST-National 
 
       this.age = 21;                                                      
     }
-   }
+   }`
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzAmeerHamza&show_icons=true&theme=radical)
  
