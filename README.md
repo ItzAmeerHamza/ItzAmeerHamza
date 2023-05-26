@@ -16,6 +16,7 @@ I am __Ameer Hamza__ a computer science enthusiast, graduated from FAST-National
    }
  ```
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzAmeerHamza&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzAmeerHamza&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
  
 <!--
 **ItzAmeerHamza/ItzAmeerHamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
