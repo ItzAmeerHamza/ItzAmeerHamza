@@ -4,16 +4,18 @@
 <br />
 I am __Ameer Hamza__ a computer science enthusiast graduated from FAST-National University of Computer and Emerging Sciences. I am from Pakistan
 
-class Person {
-  constructor() {
+  class Person {
+    constructor() {
 
-    this.name = "Ameer Hamza";
+      this.name = "Ameer Hamza";
 
-    this.traits = ["Engineering", "DEV", "CS Geek"];
+      this.traits = ["Engineering", "DEV", "CS Geek"];
 
-    this.age = 21;                                                      
-  }
- }
+      this.age = 21;                                                      
+    }
+   }
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzAmeerHamza&show_icons=true&theme=radical)
  
 <!--
 **ItzAmeerHamza/ItzAmeerHamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
