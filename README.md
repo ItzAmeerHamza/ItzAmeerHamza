@@ -1,5 +1,7 @@
 ### Hi there 👋
-file:///home/ahmad/Desktop/coverphoto.png![Uploading image.png…]()
+
+https://github.com/ItzAmeerHamza/ItzAmeerHamza/blob/main/coverphoto.png
+<br />
 I am __Ameer Hamza__ a computer science enthusiast graduated from FAST-National University of Computer and Emerging Sciences. I am from Pakistan
 <!--
 **ItzAmeerHamza/ItzAmeerHamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
