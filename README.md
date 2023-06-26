@@ -2,7 +2,9 @@
 
 ![coverphoto](https://github.com/ItzAmeerHamza/ItzAmeerHamza/blob/main/coverphoto.png)
 <br />
-I am __Ameer Hamza__ a computer science enthusiast, graduated from FAST-National University of Computer and Emerging Sciences. I am from Pakistan
+<br />
+I am __Ameer Hamza__ from Pakistan.  I`m a computer science enthusiast, graduated from FAST-National University of Computer and Emerging Sciences.
+<br />
 ```
   class Person {
     constructor() {
@@ -15,7 +17,7 @@ I am __Ameer Hamza__ a computer science enthusiast, graduated from FAST-National
     }
    }
  ```
- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+ [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ItzAmeerHamza/github-readme-stats)
 <!--
 **ItzAmeerHamza/ItzAmeerHamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
