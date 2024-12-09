@@ -62,6 +62,15 @@ I’m a computer science enthusiast, graduated from FAST-National University of 
  [![My Skills](https://skillicons.dev/icons?i=jquery,ts,postman,npm,anaconda,selenium,latex,git,github)](https://skillicons.dev)
  # Tools
  [![My Skills](https://skillicons.dev/icons?i=notion,vscode,visualstudio,linux,pycharm,)](https://skillicons.dev)
+
+ ----
+ ----
+ ### Let's connect learn from each other
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your-email@gmail.com)
+  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/contact-ameer-hamza/)
+  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/am33r_ham2a/)
+  [![GitHub](https://skillicons.dev/icons?i=instagram)](https://github.com/ItzAmeerHamza)
+
 <!--
 **ItzAmeerHamza/ItzAmeerHamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
