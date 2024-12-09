@@ -1,7 +1,10 @@
-### Hi there 👋
+![Profile Image](https://github.com/ItzAmeerHamza/ItzAmeerHamza/blob/main/hello-gif-15.gif)  
 <br />
 <br />
-Myself _Ameer Hamza_ 👋.  I`m a computer science enthusiast, graduated from FAST-National University of Computer and Emerging Sciences.
+
+Myself _Ameer Hamza_ 👋.  
+I’m a computer science enthusiast, graduated from FAST-National University of Computer and Emerging Sciences.
+
 <br />
 
 
@@ -27,7 +30,15 @@ Myself _Ameer Hamza_ 👋.  I`m a computer science enthusiast, graduated from FA
  😄 Pronouns: He/Him
  😊 I’m looking forward to help you
  ⚡ Fun fact: CAPTCHA means 'Completely Automated Public Turing Test to tell Computers and Humans Apart'
- 
+ ---
+ # Technical skills
+ ---
+ # Programing Languages
+ [![My Skills](https://skillicons.dev/icons?i=python,js,cpp,golang,cs,html,css)](https://skillicons.dev)
+ ---
+ # Frameworks
+ [![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,cpp,golang,cs,html,css)](https://skillicons.dev)
+
 <!--
 **ItzAmeerHamza/ItzAmeerHamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
