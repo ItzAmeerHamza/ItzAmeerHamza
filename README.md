@@ -22,15 +22,17 @@ I’m a computer science enthusiast, graduated from FAST-National University of 
  ```
 
 
- 🔭 I’m currently working in GO
- 🌱 I’m currently learning applied mathematics in machine learning
- 👯 I’m looking to collaborate on Software Engineering/Computer Vision/Deep Learning
- 💬 Ask me about programing
- 📫 How to reach me: 📬 ameer.hamza.nu@gmail.com
- 😄 Pronouns: He/Him
- 😊 I’m looking forward to help you
- ⚡ Fun fact: CAPTCHA means 'Completely Automated Public Turing Test to tell Computers and Humans Apart'
- ---
+ 🔭 I’m currently working in GO <br />
+ 🌱 I’m currently learning applied mathematics in machine learning <br />
+ 👯 I’m looking to collaborate on Software Engineering/Computer Vision/Deep Learning <br />
+ 💬 Ask me about programing <br />
+ 📫 How to reach me: 📬 ameer.hamza.nu@gmail.com <br />
+ 😄 Pronouns: He/Him <br />
+ 😊 I’m looking forward to help you <br />
+ ⚡ Fun fact: CAPTCHA means 'Completely Automated Public Turing Test to tell Computers and Humans Apart' <br />
+ 
+ <br />
+ <br />
  # Technical skills
  ---
  # Programing Languages
