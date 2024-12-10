@@ -39,7 +39,7 @@ I’m a computer science enthusiast, graduated from FAST-National University of 
  [![My Skills](https://skillicons.dev/icons?i=python,js,cpp,bash,php,golang,cs,html,css,sass,tailwind)](https://github.com/ItzAmeerHamza)
  
  
- # Frameworks
+ # 🛠 Frameworks
  ## MERN
  [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://github.com/ItzAmeerHamza)
  ## RoR
@@ -65,7 +65,7 @@ I’m a computer science enthusiast, graduated from FAST-National University of 
 
  ----
  ----
- ### Let's connect learn from each other
+ ### Let's connect and learn from each other
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your-email@gmail.com)
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/contact-ameer-hamza/)
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/am33r_ham2a/)
