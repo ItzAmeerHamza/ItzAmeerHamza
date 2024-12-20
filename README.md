@@ -35,36 +35,38 @@ I’m a computer science enthusiast, graduated from FAST-National University of 
  <br />
  
  # Technical skills
- # Programing Languages
+ ### Programing Languages
  [![My Skills](https://skillicons.dev/icons?i=python,js,cpp,bash,php,golang,cs,html,css,sass,tailwind)](https://github.com/ItzAmeerHamza)
  
  
  # 🛠 Frameworks
- ## MERN
+ ### MERN
  [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://github.com/ItzAmeerHamza)
- ## RoR
+ ### RoR
  [![My Skills](https://skillicons.dev/icons?i=ruby,rails)](https://github.com/ItzAmeerHamza)
- ## NextJs
+ ### NextJs
  [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://github.com/ItzAmeerHamza)
- ## Bootstrap
+ ### Bootstrap
  [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://github.com/ItzAmeerHamza)
- ## Python
+ ### Python
  [![My Skills](https://skillicons.dev/icons?i=django,fastapi)](https://github.com/ItzAmeerHamza)
 
  
- # Databases
+ ### Databases
  [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb)](https://github.com/ItzAmeerHamza)
-# Machine Learning
+ ### Machine Learning
  [![My Skills](https://skillicons.dev/icons?i=qt,pytorch,py,opencv,matlab,tensorflow,sklearn)](https://github.com/ItzAmeerHamza)
-# Cloud Platforms
+ ### Cloud Platforms
  [![My Skills](https://skillicons.dev/icons?i=gcp,heroku,github)](https://github.com/ItzAmeerHamza)
-# General Proficiency
+ ### General Proficiency
  [![My Skills](https://skillicons.dev/icons?i=jquery,ts,postman,npm,anaconda,selenium,latex,git,github)](https://github.com/ItzAmeerHamza)
- # Tools
+ ### Tools
  [![My Skills](https://skillicons.dev/icons?i=notion,vscode,visualstudio,linux,pycharm,)](https://github.com/ItzAmeerHamza)
 
  ----
- ----
+
+ <br />
+ 
  ### Let's connect and learn from each other
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your-email@gmail.com)
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/contact-ameer-hamza/)
