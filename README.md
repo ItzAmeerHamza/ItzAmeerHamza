@@ -16,7 +16,7 @@ I’m a computer science enthusiast, graduated from FAST-National University of 
 
       this.traits = ["Engineering", "DEV", "CS Geek"];
 
-      this.age = 22;                                                      
+      this.age = 23;                                                      
     }
    }
  ```
