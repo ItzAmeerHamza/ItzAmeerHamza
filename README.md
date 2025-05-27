@@ -3,7 +3,8 @@
 <br />
 
 Myself _Ameer Hamza_ 👋.  
-I’m a computer science enthusiast, graduated from FAST-National University of Computer and Emerging Sciences. I 🔧 build stuff for the 🌐 internet.
+I’m a computer science enthusiast, graduated from FAST-National University of Computer and Emerging Sciences. I 🔧 build stuff for the 🌐 internet. 
+
 
 <br />
 
