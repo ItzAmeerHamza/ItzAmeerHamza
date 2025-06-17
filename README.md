@@ -7,7 +7,6 @@ I’m a computer science enthusiast, graduated from FAST-National University of 
 
 <br />
 
-
 ```
   class Person {
     constructor() {
@@ -66,6 +65,7 @@ I’m a computer science enthusiast, graduated from FAST-National University of 
  ----
 
  <br />
+
  
  ### Let's connect and learn from each other
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your-email@gmail.com)
