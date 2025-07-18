@@ -20,7 +20,7 @@ I’m a computer science enthusiast, graduated from FAST-National University of 
    }
  ```
 
- 🔭 I’m currently working in Python and Python based farmeworks <br />
+ 🔭 I’m currently working as a Data Engineer<br />
  🌱 I’m currently learning applied mathematics in machine learning <br />
  👯 I’m looking to collaborate on Software Engineering/Computer Vision/Deep Learning <br />
  💬 Ask me about programing <br />
